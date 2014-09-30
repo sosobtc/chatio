@@ -1,0 +1,28 @@
+{
+  "name": "chatio",
+  "version": "0.1.0",
+  "description": "a simple chat server based on socke.io",
+  "author": {
+    "name": "sosobtc",
+    "email": "sosobtc@163.com"
+  },
+  "contributors": [
+    {
+      "name": "Fortran Lee",
+      "email": "fortranlee.91@gmail.com"
+    }
+  ],
+  "dependencies": {
+    
+  },
+  "keywords": [
+    "chatio",
+    "socket.io",
+    "chat server",
+    "聊天服务器"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/sosobtc/chatio"
+  }
+}
